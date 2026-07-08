@@ -1,0 +1,9 @@
+Business Rules: Customer Loan Eligibility
+
+1. A customer is eligible to apply for a personal loan only if the customer age is between 21 and 60 years.
+2. The customer must have a monthly income of at least 30000.
+3. The requested loan amount must be between 50000 and 1000000.
+4. If the customer credit score is below 650, the loan application must be rejected.
+5. If mandatory customer details are missing, the application must not be submitted.
+6. The system must calculate monthly EMI based on loan amount, interest rate, and tenure.
+7. Tenure must be between 12 and 60 months.
