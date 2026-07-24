@@ -3,6 +3,6 @@ setlocal
 
 cd /d "%~dp0\.."
 
-ollama create test-scenario-generator-02 -f Modelfile
+ollama create FID-test-scenario-generator -f Modelfile
 
 endlocal
